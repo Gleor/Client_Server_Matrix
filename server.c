@@ -118,6 +118,7 @@ int main(int argc, char *argv[]) {
              printf("Avg. det = N/A\n");
              printf("Del. det = N/A\n");
          }
+         printf("\n");
      }
 
      close(newsockfd);
